@@ -1,4 +1,8 @@
-# akc3n's github profile readme
+# akc3n's notes
 ---
 
-Hi! This is a work in progress.
+Hi! 
+
+About me: [README](https://github.com/akc3n/akc3n.page#background)   
+Checkout: https://akc3n.page   
+**Banking apps project**: https://privsec.dev/banking   
