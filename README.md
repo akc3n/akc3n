@@ -7,8 +7,7 @@ I really enjoy living life, being outdoors and exploring nature, biking around o
 
 | Social | Direct link |
 | :----- | :---------- |
-| Whoami: | [`/README.md#background`] |(https://github.com/akc3n/akc3n.page#background) | 
-| Website: | [akc3n.page](https://akc3n.page/) |
+| Whoami: | [`/README.md#background`](https://github.com/akc3n/akc3n.page#background) |
 | Matrix: | [@akc3n:grapheneos.org](https://matrix.to/#/@akc3n:grapheneos.org) |   
 | Bluesky: | [profile/akc3n.page](https://bsky.app/profile/akc3n.page) |
 | Lemmy: | [u/akc3n](https://lemmy.ml/u/akc3n) |
