@@ -2,7 +2,7 @@
 
 Hey there, I'm akc3n!   
 
-I really enjoy living life, being outdoors and exploring nature, biking around on the forestry trails in the Okanagan Valley, BC, learning new things, solving puzzles and eating all sorts different types of food! 
+I love being outdoors, exploring nature, biking the forestry trails in the Okanagan Valley, BC, learning new things, solving puzzles, and trying all kinds of different foods.
 
 ## Connect
 
