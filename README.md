@@ -11,6 +11,7 @@ I love being outdoors, exploring nature, biking the forestry trails in the Okana
 | Whoami: | [`/README.md#background`](https://github.com/akc3n/akc3n.page#background) |
 | Matrix: | [@akc3n:grapheneos.org](https://matrix.to/#/@akc3n:grapheneos.org) |
 | Signal: | [@akc3n.11](https://signal.me/#eu/akc3n.11) |
+| └─ _My 1/2 of our safety num:_ | `51237 52609 35426 48625 92006 86267` |
 | Forum: | [discuss/u/akc3n](https://discuss.grapheneos.org/u/akc3n) |
 | Lemmy: | [u/akc3n](https://lemmy.ml/u/akc3n) |
 
